@@ -1,0 +1,14 @@
+th{
+    color: gray;
+}
+form{
+     width: 900px;
+     height:100% ;
+    border: 1px solid grey;
+    margin: auto;
+    padding-left: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
